@@ -14,16 +14,3 @@ for (let i = 0; i < quantidadeDeAlunos; i++) {
 
 
 print(maiorValor);
-
-
-
-
-
-
-
-
-
-
-
-
-
